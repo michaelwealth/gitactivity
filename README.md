@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 12f4cee... Create Activity
 
 
 # Manage and Deploy a Project with Git
@@ -37,6 +40,9 @@ Here are the **instructions**!
 20.  Push your branch to the remote repository and create a Pull Request!
 
 Make sure and keep a copy of your work for your mentors!
+<<<<<<< HEAD
 =======
 # gitactivity
 >>>>>>> 4264660... Initial commit
+=======
+>>>>>>> 12f4cee... Create Activity
